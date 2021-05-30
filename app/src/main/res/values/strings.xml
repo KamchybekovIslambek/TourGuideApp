@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <string name="monuments">Monuments</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="parks">Parks</string>
+    <string name="manasmonument">The monument is located in the heart of Bishkek, on the Ala-Too Square. Its height together with the pedestal is 17 m, 55 cm. It is a bronze statue depicting a national hero riding a mighty horse. The author-sculptor is Bazarbay Sydykov, and the opening of the monument (August 31, 2011)
+    </string>
+    <string name="chyngyzmonument">Monument to Ch. Aitmatov
+The height of the monument is about 8 m. The monument is dedicated to the 20th anniversary of the independence of Kyrgyzstan. Cast in Moscow on the money of public donations.
+Year of creation
+August 30, 2011
+Author
+Sculptor: S. Beishenbayev.</string>
+    <string name="supara">"Supara Chunkurchak" is a successful reunion of two well-known brands.
+Another grandiose project of Tabylda Egemberdiev is located just 40 kilometers south of the capital in a beautiful place called the Chunkurchak tract.
+Supara Chunkurchak provides you with the conditions for a comfortable stay and an unforgettable rest and pastime. \n Work 24/7
+    </string>
+    <string name="derjinka">One of the most popular and oldest places in the city is the Dzerzhinka district. The area is considered the most comfortable and prestigious for living. The locals were called the "golden youth". Now tourists are recommended to come here, and the place itself has changed its name to Erkindik Boulevard. </string>
+    <string name="healthpark">park of culture and recreation</string>
+    <string name="phonemanasmonument">0312626105</string>
+    <string name="phonechyngyzmonument">0312626105</string>
+    <string name="phonesupara">0553787272</string>
+    <string name="addressmanasmonument">Chui Prospect, Ala-Too</string>
+    <string name="addresschyngyzmonument">Kiev Prospect, Ala-Too</string>
+    <string name="addresssupara">Chunkurchack</string>
+    <string name="addressderjinka">Erkindik Bulvar</string>
+    <string name="addresshealthpark">​90/2 Chyngyz Aitmatov Avenue</string>
+    <string name="botsad">E. Gareev Botanical Garden</string>
+    <string name="addressbotsad">Ahunbaeva/7-april street</string>
+
+    <string name="kurmanjandatka">Kurmanzhan Mamatbai kyzy Monument
+Statesman and military leader, leader and ruler of the Alai Kyrgyz. She is also often called the "Alai Queen". She had the rank of "datka" (general) in the Kokand Khanate. Colonel of the Russian Imperial Army.
+Author
+Sculptor: V. A. Shestopalov.</string>
+
+    <string name="addresskurmanjandatka">Chingiz Aitmatov Park</string>
+    <string name="phonekurmanjandatka">0312626105</string>
+    <string name="torroburger">Your favorite Burgers and our signature Borscht you can eat at our
+"TORRO BURGER and BORSCH"🥳.
+
+The floors were cleaned
+The dust was wiped away
+The tables were set up
+The meat is fried
+Borscht cooked
+Our doors are always open for you. \nwork from 10:00 till 00:00
+    </string>
+    <string name="addresstorroburger">Moskovskya 156/Isanova</string>
+    <string name="phonetorroburger">0550201155</string>
+    <string name="Avenue">Avenue Coffee Shop | Bishkek
+DRINK COFFEE. BE SEXY.
+Coffee, food, and people.
+Confectionery products from @nasha_marka
+\nOpen from 8: 00 to 23: 30</string>
+    <string name="addressAvenue">Bokonbaeva 101</string>
+    <string name="phoneAvenue">0555283683</string>
+
+</resources>
